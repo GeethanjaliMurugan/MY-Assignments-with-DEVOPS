@@ -1,0 +1,6 @@
+Task Description:
+
+Deploy a simple web application using AWS code commit, code build and deploy & access via browser and automate via codepipeline.
+
+
+As the Git code commit, CodeBuild, CodeDeploy, CodePipeline are not available in free version of AWS it is asdvised by the GUVI support team to skip this task.
